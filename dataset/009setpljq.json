@@ -1,0 +1,49 @@
+{
+	"title": "十二滩漂流景区",
+    "x": 110.083084,
+    "y":25.585575,
+	"description": "位于桂林市临桂县宛田乡东北部桂林至龙胜黄金旅游线上。",
+	"content":[
+		{
+			"src": "../lgImg/009setpljq_01.jpg",
+			"text": "漂流河段位于桂林桂县义江上游，交通十分便利。"
+		},{
+			"src": "../lgImg/009setpljq_03.jpg",
+			"text": ""
+		},{
+			"src": "../lgImg/009setpljq_04.jpg",
+			"text": ""
+		},{
+			"src": "../lgImg/009setpljq_05.jpg",
+			"text": ""
+		},{
+			"src": "../lgImg/009setpljq_07.jpg",
+			"text": ""
+		},
+		{
+			"src": "../lgImg/009setpljq_02.jpg",
+			"text": "十二滩漂流因漂流河道有惊险刺激的12道主滩而取名十二滩。"
+		},{
+			"src": "../lgImg/009setpljq_09.jpg",
+			"text": ""
+		},{
+			"src": "../lgImg/009setpljq_10.jpg",
+			"text": ""
+		},{
+			"src": "../lgImg/009setpljq_11.jpg",
+			"text": ""
+		},{
+			"src": "../lgImg/009setpljq_13.jpg",
+			"text": ""
+		},{
+			"src": "../lgImg/009setpljq_18.jpg",
+			"text": ""
+		},{
+			"src": "../lgImg/009setpljq_20.jpg",
+			"text": "漂流全程13.5公里，两岸的蔽日参天古木，可在崖陡峭狭的河道中感受漂流的弹跳、起落、摇晃、冲浪回旋。十二滩漂流全程9公里，途经66道河滩，12道急滩，急滩中最高落差达3米，全程落差80多米十二滩九曲十八弯。"
+		},{
+			"src": "../lgImg/009setpljq_14.jpg",
+			"text": "漂流全程13.急流冲击着山石溅起层层水花，橡皮艇在波峰浪谷中颠簸、跳荡、起伏、摇晃，让你体验到超乎想象的刺激。"
+		}
+	]
+}

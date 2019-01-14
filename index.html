@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="百度地图,百度地图API，百度地图自定义工具，百度地图所见即所得工具" />
+    <meta name="description" content="百度地图API自定义地图，帮助用户在可视化操作下生成百度地图" />
+    <!--meta name="viewport" content="width=device-width,initial-scale=1"-->
+	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1, user-scalable=0" />
+	<title>临桂</title>
+		
+    <!--引用百度地图API-->
+	
+	<!-- 调用LightGallery框架 需要引入jquery-->
+	<script src="http://libs.baidu.com/jquery/2.1.4/jquery.min.js"></script>
+	<script src="dist/js/initGallery.js"></script>
+	<!-- 引用结束 -->
+    <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=Rp2cf38IbgL0oiBByitu0MItAgO7adXF"></script>
+	<script type="text/javascript" src="http://api.map.baidu.com/library/SearchInfoWindow/1.5/src/SearchInfoWindow_min.js"></script>
+	<link rel="stylesheet" href="http://api.map.baidu.com/library/SearchInfoWindow/1.5/src/SearchInfoWindow_min.css" />
+	<script type="text/javascript" src="js/MapInitor.js"></script>
+  </head>
+  <style type="text/css">
+	html,body{height:100%; width:100%; overflow:hidden; margin:0; padding:0;}	
+	.anchorBL{display:none;}
+	</style>
+  <body>
+    <!--百度地图容器-->
+    <div style="width:auto;height:100%;border:#ccc solid 1px;font-size:12px" id="map"></div>
+	<script type="text/javascript">InitMap("r04");</script>
+	<p id="con">内容</p>
+  </body>
+</html>

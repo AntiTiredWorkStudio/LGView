@@ -1,0 +1,478 @@
+{
+	"id" : "r03",
+	"initX":110.192137,
+	"initY":25.285082,
+	"initLevel":11,
+	"titles" : [{
+			"x":110.245513,
+			"y":25.294049,
+			"title":"崇华中医街",
+			"description":"景区"
+	},
+	{
+			"x":110.029796,
+			"y":25.420163,
+			"title":"广福山",
+			"description":"景区"
+	},{
+			"x":110.333094,
+			"y":25.012331,
+			"title":"桂林花海",
+			"description":"景区"
+	},{
+			"x":110.187608,
+			"y":25.258145,
+			"title":"桂林油茶品鉴中心",
+			"description":"景区"
+	}
+	],
+	"photos" : [
+		{
+			"thumbnail" : true,
+			"dynamicEl" : [
+				{
+				  "src": "lgImg/001chzyj_02.jpg",
+				  "thumb": "img/thumb_001chzyj_02.jpg",
+				  "subHtml": "位于广西桂林中隐西路1号"
+				},
+				{
+				  "src": "lgImg/001chzyj_03.jpg",
+				  "thumb": "img/thumb_001chzyj_03.jpg",
+				  "subHtml": "被誉为“中国中医药文化第一街”"
+				},
+				{
+				  "src": "lgImg/001chzyj_04.jpg",
+				  "thumb": "img/thumb_001chzyj_04.jpg",
+				  "subHtml": "“儒、释、道、医”等文化元素为设计"
+				},
+				{
+				  "src": "lgImg/001chzyj_05.jpg",
+				  "thumb": "img/thumb_001chzyj_05.jpg",
+				  "subHtml": "汇聚4位国医大师"
+				},
+				{
+				  "src": "lgImg/001chzyj_06.jpg",
+				  "thumb": "img/thumb_001chzyj_06.jpg",
+				  "subHtml": "中医，壮医、瑶医、侗医等少数民族医疗"
+				},
+				{
+				  "src": "lgImg/001chzyj_07.jpg",
+				  "thumb": "img/thumb_001chzyj_07.jpg",
+				  "subHtml": "在此大放光彩"
+				},
+				{
+				  "src": "lgImg/001chzyj_08.jpg",
+				  "thumb": "img/thumb_001chzyj_08.jpg",
+				  "subHtml": "逐步形成了以针灸治疗中风"
+				},
+				{
+				  "src": "lgImg/001chzyj_09.jpg",
+				  "thumb": "img/thumb_001chzyj_09.jpg",
+				  "subHtml": "手法与药物相结合治疗中老年颈椎"
+				},
+				{
+				  "src": "lgImg/001chzyj_10.jpg",
+				  "thumb": "img/thumb_001chzyj_10.jpg",
+				  "subHtml": "以及治疗妇科、脾胃病的品牌"
+				},
+				{
+				  "src": "lgImg/001chzyj_11.jpg",
+				  "thumb": "img/thumb_001chzyj_11.jpg",
+				  "subHtml": "桂林崇华中医街"
+				}
+			  ]
+		}, {
+			"thumbnail" : true,
+			"dynamicEl" : [
+				{
+				  "src": "lgImg/002gfsjq_02.jpg",
+				  "thumb": "img/thumb_002gfsjq_02.jpg",
+				  "subHtml": "在古义宁县西北十五里有一座“智惠山”"
+				},
+				{
+				  "src": "lgImg/002gfsjq_03.jpg",
+				  "thumb": "img/thumb_002gfsjq_03.jpg",
+				  "subHtml": "山上有一座庙叫“惠宁庙”"
+				},
+				{
+				  "src": "lgImg/002gfsjq_04.jpg",
+				  "thumb": "img/thumb_002gfsjq_04.jpg",
+				  "subHtml": "惠宁庙也叫广福王庙"
+				},
+				{
+				  "src": "lgImg/002gfsjq_05.jpg",
+				  "thumb": "img/thumb_002gfsjq_05.jpg",
+				  "subHtml": "是祭祀“武当”的英雄人物"
+				},
+				{
+				  "src": "lgImg/002gfsjq_06.jpg",
+				  "thumb": "img/thumb_002gfsjq_06.jpg",
+				  "subHtml": "武当是随蜀国诸葛亮南征来到义宁"
+				},
+				{
+				  "src": "lgImg/002gfsjq_07.jpg",
+				  "thumb": "img/thumb_002gfsjq_07.jpg",
+				  "subHtml": "岭南征战他立下赫赫战功"
+				},
+				{
+				  "src": "lgImg/002gfsjq_08.jpg",
+				  "thumb": "img/thumb_002gfsjq_08.jpg",
+				  "subHtml": "恰逢遇上山洪爆发身殉智惠江中"
+				},
+				{
+				  "src": "lgImg/002gfsjq_09.jpg",
+				  "thumb": "img/thumb_002gfsjq_09.jpg",
+				  "subHtml": "后化为巨石立于智惠山上"
+				},
+				{
+				  "src": "lgImg/002gfsjq_10.jpg",
+				  "thumb": "img/thumb_002gfsjq_10.jpg",
+				  "subHtml": "义宁人民为纪念这位民族英雄"
+				},
+				{
+				  "src": "lgImg/002gfsjq_11.jpg",
+				  "thumb": "img/thumb_002gfsjq_11.jpg",
+				  "subHtml": "就在巨石旁修建了一座庙祠"
+				},
+				{
+				  "src": "lgImg/002gfsjq_12.jpg",
+				  "thumb": "img/thumb_002gfsjq_12.jpg",
+				  "subHtml": "永宁十三年，为方便更多乡亲祈福"
+				},
+				{
+				  "src": "lgImg/002gfsjq_13.jpg",
+				  "thumb": "img/thumb_002gfsjq_13.jpg",
+				  "subHtml": "经官府申报,建有惠宁庙"
+				},
+				{
+				  "src": "lgImg/002gfsjq_14.jpg",
+				  "thumb": "img/thumb_002gfsjq_14.jpg",
+				  "subHtml": "因智惠山惠宁庙为其始祖"
+				},
+				{
+				  "src": "lgImg/002gfsjq_15.jpg",
+				  "thumb": "img/thumb_002gfsjq_15.jpg",
+				  "subHtml": "故后人又称其为“祖庙”"
+				},
+				{
+				  "src": "lgImg/002gfsjq_16.jpg",
+				  "thumb": "img/thumb_002gfsjq_16.jpg",
+				  "subHtml": "祖庙这一称呼便一直流传至今"
+				},
+				{
+				  "src": "lgImg/002gfsjq_17.jpg",
+				  "thumb": "img/thumb_002gfsjq_17.jpg",
+				  "subHtml": "而“广福山景区”就坐落在智惠山下"
+				},
+				{
+				  "src": "lgImg/002gfsjq_18.jpg",
+				  "thumb": "img/thumb_002gfsjq_18.jpg",
+				  "subHtml": "智惠清江之中而得名"
+				},
+				{
+				  "src": "lgImg/002gfsjq_19.jpg",
+				  "thumb": "img/thumb_002gfsjq_19.jpg",
+				  "subHtml": "广福山景区"
+				},
+				{
+				  "src": "lgImg/002gfsjq_20.jpg",
+				  "thumb": "img/thumb_002gfsjq_20.jpg",
+				  "subHtml": "广福山景区"
+				},
+				{
+				  "src": "lgImg/002gfsjq_21.jpg",
+				  "thumb": "img/thumb_002gfsjq_21.jpg",
+				  "subHtml": "广福山景区"
+				},
+				{
+				  "src": "lgImg/002gfsjq_22.jpg",
+				  "thumb": "img/thumb_002gfsjq_22.jpg",
+				  "subHtml": "广福山景区"
+				},
+				{
+				  "src": "lgImg/002gfsjq_23.jpg",
+				  "thumb": "img/thumb_002gfsjq_23.jpg",
+				  "subHtml": "广福山景区"
+				},
+				{
+				  "src": "lgImg/002gfsjq_24.jpg",
+				  "thumb": "img/thumb_002gfsjq_24.jpg",
+				  "subHtml": "广福山景区"
+				},
+				{
+				  "src": "lgImg/002gfsjq_25.jpg",
+				  "thumb": "img/thumb_002gfsjq_25.jpg",
+				  "subHtml": "广福山景区"
+				}
+			  ]
+		},{
+			"thumbnail" : true,
+			"dynamicEl" :[
+				{
+				  "src": "lgImg/003glhhjq_02.jpg",
+				  "thumb": "img/thumb_003glhhjq_02.jpg",
+				  "subHtml": "中国第一家大型三角梅主题花海景区"
+				},
+				{
+				  "src": "lgImg/003glhhjq_03.jpg",
+				  "thumb": "img/thumb_003glhhjq_03.jpg",
+				  "subHtml": "广西最大三角梅基地"
+				},
+				{
+				  "src": "lgImg/003glhhjq_04.jpg",
+				  "thumb": "img/thumb_003glhhjq_04.jpg",
+				  "subHtml": "桂林醉美后花园"
+				},
+				{
+				  "src": "lgImg/003glhhjq_05.jpg",
+				  "thumb": "img/thumb_003glhhjq_05.jpg",
+				  "subHtml": "上苍恩赐的风水宝地"
+				},
+				{
+				  "src": "lgImg/003glhhjq_06.jpg",
+				  "thumb": "img/thumb_003glhhjq_06.jpg",
+				  "subHtml": "它是当下桂林规模大"
+				},
+				{
+				  "src": "lgImg/003glhhjq_07.jpg",
+				  "thumb": "img/thumb_003glhhjq_07.jpg",
+				  "subHtml": "景观美、花期长、人气旺"
+				},
+				{
+				  "src": "lgImg/003glhhjq_08.jpg",
+				  "thumb": "img/thumb_003glhhjq_08.jpg",
+				  "subHtml": "场面震撼的最新赏花观景胜地"
+				},
+				{
+				  "src": "lgImg/003glhhjq_09.jpg",
+				  "thumb": "img/thumb_003glhhjq_09.jpg",
+				  "subHtml": "周边休闲度假游首选景区"
+				},
+				{
+				  "src": "lgImg/003glhhjq_10.jpg",
+				  "thumb": "img/thumb_003glhhjq_10.jpg",
+				  "subHtml": "生态农业观光游价值典范！"
+				},
+				{
+				  "src": "lgImg/003glhhjq_11.jpg",
+				  "thumb": "img/thumb_003glhhjq_11.jpg",
+				  "subHtml": "位于“桂林黄金旅游大通道”"
+				},
+				{
+				  "src": "lgImg/003glhhjq_12.jpg",
+				  "thumb": "img/thumb_003glhhjq_12.jpg",
+				  "subHtml": "阳朔321国道中段"
+				},
+				{
+				  "src": "lgImg/003glhhjq_13.jpg",
+				  "thumb": "img/thumb_003glhhjq_13.jpg",
+				  "subHtml": "距离桂林和阳朔均只有30公里左右"
+				},
+				{
+				  "src": "lgImg/003glhhjq_14.jpg",
+				  "thumb": "img/thumb_003glhhjq_14.jpg",
+				  "subHtml": "紧邻桂阳公路的2000多亩青山峻岭"
+				},
+				{
+				  "src": "lgImg/003glhhjq_15.jpg",
+				  "thumb": "img/thumb_003glhhjq_15.jpg",
+				  "subHtml": "内外两个峡谷300多亩土地"
+				},
+				{
+				  "src": "lgImg/003glhhjq_16.jpg",
+				  "thumb": "img/thumb_003glhhjq_16.jpg",
+				  "subHtml": "园区群山环抱、主景区前景壮阔大美"
+				},
+				{
+				  "src": "lgImg/003glhhjq_17.jpg",
+				  "thumb": "img/thumb_003glhhjq_17.jpg",
+				  "subHtml": "玫瑰、玉兰、桃花等花卉全年艳丽绽放"
+				},
+				{
+				  "src": "lgImg/003glhhjq_18.jpg",
+				  "thumb": "img/thumb_003glhhjq_18.jpg",
+				  "subHtml": "一条绵延数百米的景观花廊"
+				},
+				{
+				  "src": "lgImg/003glhhjq_19.jpg",
+				  "thumb": "img/thumb_003glhhjq_19.jpg",
+				  "subHtml": "让花海景区形成百花齐放"
+				},
+				{
+				  "src": "lgImg/003glhhjq_20.jpg",
+				  "thumb": "img/thumb_003glhhjq_20.jpg",
+				  "subHtml": "群芳争艳的美丽奇观"
+				}
+			  ]
+		}, {
+			"thumbnail" : true,
+			"dynamicEl" : [
+                {
+                  "src": "lgImg/004glycpjzx_02.jpg",
+                  "thumb": "img/thumb_004glycpjzx_02.jpg",
+                  "subHtml": "莫讲瑶家礼信差"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_03.jpg",
+                  "thumb": "img/thumb_004glycpjzx_03.jpg",
+                  "subHtml": "进屋就喊喝油茶"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_04.jpg",
+                  "thumb": "img/thumb_004glycpjzx_04.jpg",
+                  "subHtml": "油茶好比仙丹水"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_05.jpg",
+                  "thumb": "img/thumb_004glycpjzx_05.jpg",
+                  "subHtml": "鹧鸪煮汤不如它"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_06.jpg",
+                  "thumb": "img/thumb_004glycpjzx_06.jpg",
+                  "subHtml": "品鉴恭城油茶"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_07.jpg",
+                  "thumb": "img/thumb_004glycpjzx_07.jpg",
+                  "subHtml": "龙胜油茶与平乐油茶"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_08.jpg",
+                  "thumb": "img/thumb_004glycpjzx_08.jpg",
+                  "subHtml": "临桂地道的茶山歌及文艺演出"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_09.jpg",
+                  "thumb": "img/thumb_004glycpjzx_09.jpg",
+                  "subHtml": "集休闲、娱乐、住宿、餐饮于一体"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_10.jpg",
+                  "thumb": "img/thumb_004glycpjzx_10.jpg",
+                  "subHtml": "位于临桂区临桂镇，紧邻321国道"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_11.jpg",
+                  "thumb": "img/thumb_004glycpjzx_11.jpg",
+                  "subHtml": "距市政府仅仅6公里"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_12.jpg",
+                  "thumb": "img/thumb_004glycpjzx_12.jpg",
+                  "subHtml": "距镇政府仅2公里"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_13.jpg",
+                  "thumb": "img/thumb_004glycpjzx_13.jpg",
+                  "subHtml": "总面积6020亩"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_14.jpg",
+                  "thumb": "img/thumb_004glycpjzx_14.jpg",
+                  "subHtml": "不断集成推广绿色农产品"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_15.jpg",
+                  "thumb": "img/thumb_004glycpjzx_15.jpg",
+                  "subHtml": "标准化生产技术"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_16.jpg",
+                  "thumb": "img/thumb_004glycpjzx_16.jpg",
+                  "subHtml": "建设和完善示范区农产品质量监控体系"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_17.jpg",
+                  "thumb": "img/thumb_004glycpjzx_17.jpg",
+                  "subHtml": "强化桂林油茶等农产品"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_18.jpg",
+                  "thumb": "img/thumb_004glycpjzx_18.jpg",
+                  "subHtml": "确保了桂林油茶品质安全"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_19.jpg",
+                  "thumb": "img/thumb_004glycpjzx_19.jpg",
+                  "subHtml": "“公司+合作社+基地+农户”"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_20.jpg",
+                  "thumb": "img/thumb_004glycpjzx_20.jpg",
+                  "subHtml": "带动农民增产增收的目的"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_21.jpg",
+                  "thumb": "img/thumb_004glycpjzx_21.jpg",
+                  "subHtml": "，走出一条具有地方特色"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_22.jpg",
+                  "thumb": "img/thumb_004glycpjzx_22.jpg",
+                  "subHtml": "“茶旅”结合的富民兴区之路"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_23.jpg",
+                  "thumb": "img/thumb_004glycpjzx_23.jpg",
+                  "subHtml": "桂林油茶品鉴中心"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_24.jpg",
+                  "thumb": "img/thumb_004glycpjzx_24.jpg",
+                  "subHtml": "桂林油茶品鉴中心"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_25.jpg",
+                  "thumb": "img/thumb_004glycpjzx_25.jpg",
+                  "subHtml": "桂林油茶品鉴中心"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_26.jpg",
+                  "thumb": "img/thumb_004glycpjzx_26.jpg",
+                  "subHtml": "桂林油茶品鉴中心"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_27.jpg",
+                  "thumb": "img/thumb_004glycpjzx_27.jpg",
+                  "subHtml": "桂林油茶品鉴中心"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_28.jpg",
+                  "thumb": "img/thumb_004glycpjzx_28.jpg",
+                  "subHtml": "桂林油茶品鉴中心"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_29.jpg",
+                  "thumb": "img/thumb_004glycpjzx_29.jpg",
+                  "subHtml": "桂林油茶品鉴中心"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_30.jpg",
+                  "thumb": "img/thumb_004glycpjzx_30.jpg",
+                  "subHtml": "桂林油茶品鉴中心"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_31.jpg",
+                  "thumb": "img/thumb_004glycpjzx_31.jpg",
+                  "subHtml": "桂林油茶品鉴中心"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_32.jpg",
+                  "thumb": "img/thumb_004glycpjzx_32.jpg",
+                  "subHtml": "桂林油茶品鉴中心"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_33.jpg",
+                  "thumb": "img/thumb_004glycpjzx_33.jpg",
+                  "subHtml": "桂林油茶品鉴中心"
+                },
+                {
+                  "src": "lgImg/004glycpjzx_34.jpg",
+                  "thumb": "img/thumb_004glycpjzx_34.jpg",
+                  "subHtml": "桂林油茶品鉴中心"
+                }
+              ]
+		}
+	]
+}

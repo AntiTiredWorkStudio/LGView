@@ -1,0 +1,259 @@
+{
+	"id" : "r02",
+	"initX":110.192137,
+	"initY":25.285082,
+	"initLevel":11,
+	"titles" : [{
+			"x":110.223038,
+			"y":25.071588,
+			"title":"会仙镇",
+			"description":"这是一段关于场景的描述"
+	},
+	{
+			"x":110.076528,
+			"y":25.381111,
+			"title":"五通",
+			"description":"这是一段关于场景的描述"
+	},{
+			"x":110.08956,
+			"y":25.465251,
+			"title":"中庸",
+			"description":"这是一段关于场景的描述"
+	},{
+			"x":110.071008,
+			"y":25.554821,
+			"title":"宛田",
+			"description":"这是一段关于场景的描述"
+	}
+	],
+	"photos" : [{
+			"thumbnail" : false,
+			"dynamicEl" : [{
+					"src" : "lgImg/zywzp_01.jpg",
+					"thumb" : "img/thumb-1.jpg",
+					"subHtml" : "这里是会仙镇"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_02.jpg",
+					"thumb" : "img/thumb-2.jpg",
+					"subHtml" : "Photo 2 by <a href='http://www.example.com' target='_blank'>Photographer Name</a><br />More caption text.<br />Even more caption text."
+				}, {
+					"src" : "lgImg/zywzp_03.jpg",
+					"thumb" : "img/thumb-13.jpg",
+					"subHtml" : "Photo 3 by <a href='http://www.example.com' target='_blank'>Photographer Name</a><br />More caption text.<br />Even more caption text."
+				}
+			]
+		}, {
+			"thumbnail" : true,
+			"dynamicEl" : [{
+					"src" : "lgImg/zywzp_01.jpg",
+					"thumb" : "img/thumb-1.jpg",
+					"subHtml" : "这里是五通"
+				}, {
+					"src" : "lgImg/zywzp_02.jpg",
+					"thumb" : "img/thumb-2.jpg",
+					"subHtml" : "Photo 2 by <a href='http://www.example.com' target='_blank'>Photographer Name</a><br />More caption text.<br />Even more caption text."
+				}, {
+					"src" : "lgImg/zywzp_03.jpg",
+					"thumb" : "img/thumb-13.jpg",
+					"subHtml" : "Photo 3 by <a href='http://www.example.com' target='_blank'>Photographer Name</a><br />More caption text.<br />Even more caption text."
+				}
+			]
+		},{
+			"thumbnail" : true,
+			"dynamicEl" : [{
+					"src" : "lgImg/zywzp_01.jpg",
+					"thumb" : "img/thumb-1.jpg",
+					"subHtml" : "这里是五通"
+				}, {
+					"src" : "lgImg/zywzp_02.jpg",
+					"thumb" : "img/thumb-2.jpg",
+					"subHtml" : "Photo 2 by <a href='http://www.example.com' target='_blank'>Photographer Name</a><br />More caption text.<br />Even more caption text."
+				}, {
+					"src" : "lgImg/zywzp_03.jpg",
+					"thumb" : "img/thumb-13.jpg",
+					"subHtml" : "Photo 3 by <a href='http://www.example.com' target='_blank'>Photographer Name</a><br />More caption text.<br />Even more caption text."
+				}
+			]
+		}, {
+			"thumbnail" : true,
+			"dynamicEl" : [{
+					"src" : "lgImg/zywzp/zywzp_02.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_02.jpg",
+					"subHtml" : "这里是王者之坪02"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_03.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_03.jpg",
+					"subHtml" : "这里是王者之坪03"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_04.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_04.jpg",
+					"subHtml" : "这里是王者之坪04"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_05.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_05.jpg",
+					"subHtml" : "这里是王者之坪05"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_06.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_06.jpg",
+					"subHtml" : "这里是王者之坪06"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_07.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_07.jpg",
+					"subHtml" : "这里是王者之坪07"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_08.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_08.jpg",
+					"subHtml" : "这里是王者之坪08"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_09.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_09.jpg",
+					"subHtml" : "这里是王者之坪09"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_10.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_10.jpg",
+					"subHtml" : "这里是王者之坪10"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_11.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_11.jpg",
+					"subHtml" : "这里是王者之坪11"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_12.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_12.jpg",
+					"subHtml" : "这里是王者之坪12"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_13.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_13.jpg",
+					"subHtml" : "这里是王者之坪13"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_14.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_14.jpg",
+					"subHtml" : "这里是王者之坪14"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_15.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_15.jpg",
+					"subHtml" : "这里是王者之坪15"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_16.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_16.jpg",
+					"subHtml" : "这里是王者之坪16"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_17.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_17.jpg",
+					"subHtml" : "这里是王者之坪17"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_18.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_18.jpg",
+					"subHtml" : "这里是王者之坪18"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_19.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_19.jpg",
+					"subHtml" : "这里是王者之坪19"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_20.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_20.jpg",
+					"subHtml" : "这里是王者之坪20"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_21.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_21.jpg",
+					"subHtml" : "这里是王者之坪21"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_22.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_22.jpg",
+					"subHtml" : "这里是王者之坪22"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_23.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_23.jpg",
+					"subHtml" : "这里是王者之坪23"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_24.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_24.jpg",
+					"subHtml" : "这里是王者之坪24"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_25.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_25.jpg",
+					"subHtml" : "这里是王者之坪25"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_26.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_26.jpg",
+					"subHtml" : "这里是王者之坪26"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_27.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_27.jpg",
+					"subHtml" : "这里是王者之坪27"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_28.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_28.jpg",
+					"subHtml" : "这里是王者之坪28"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_29.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_29.jpg",
+					"subHtml" : "这里是王者之坪29"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_30.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_30.jpg",
+					"subHtml" : "这里是王者之坪30"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_31.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_31.jpg",
+					"subHtml" : "这里是王者之坪31"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_32.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_32.jpg",
+					"subHtml" : "这里是王者之坪32"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_33.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_33.jpg",
+					"subHtml" : "这里是王者之坪33"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_34.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_34.jpg",
+					"subHtml" : "这里是王者之坪34"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_35.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_35.jpg",
+					"subHtml" : "这里是王者之坪35"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_36.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_36.jpg",
+					"subHtml" : "这里是王者之坪36"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_37.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_37.jpg",
+					"subHtml" : "这里是王者之坪37"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_38.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_38.jpg",
+					"subHtml" : "这里是王者之坪38"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_39.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_39.jpg",
+					"subHtml" : "这里是王者之坪39"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_40.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_40.jpg",
+					"subHtml" : "这里是王者之坪40"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_41.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_41.jpg",
+					"subHtml" : "这里是王者之坪41"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_42.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_42.jpg",
+					"subHtml" : "这里是王者之坪42"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_43.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_43.jpg",
+					"subHtml" : "这里是王者之坪43"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_44.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_44.jpg",
+					"subHtml" : "这里是王者之坪44"
+				}, {
+					"src" : "lgImg/zywzp/zywzp_45.jpg",
+					"thumb" : "lgImg/zywzp/thumb_xywzp_45.jpg",
+					"subHtml" : "这里是王者之坪45"
+				}
+			]
+		}
+	]
+}
